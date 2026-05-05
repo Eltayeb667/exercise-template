@@ -1,0 +1,62 @@
+{
+  "slides": [
+    {
+      "type": "listening",
+      "title": "Listening Comprehension: Activities",
+      "audio": "audio/cooking.mp3",
+      "script_en": "OK. Yuna likes cooking.",
+      "script_ar": "حسنًا. يونا يعجبها الطهي.",
+      "question": "What does Yuna like?",
+      "answer": "She likes cooking."
+    },
+    {
+      "type": "vocabPic",
+      "title": "Vocabulary with Picture: Cooking",
+      "audio": "audio/cooking.mp3",
+      "script_en": "OK. Yuna likes cooking.",
+      "script_ar": "حسنًا. يونا يعجبها الطهي.","vocab_item": "cooking",
+      "image": "images/cooking.png",
+      "question": "What activity is shown in the picture?",
+      "answer": "cooking."
+    },
+    {
+      "type": "translate",
+      "title": "Look at the Arabic. Translate into English and check your answer.",
+      "audio": "audio/the next train.mp3",
+      "script_en": "The next train to London leaves at ten past four.",
+      "script_ar": " القطار القادم إلى لندن يغادر في الساعة الرابعة وعشر دقائق."
+    },
+    {
+      "type": "trueFalse",
+      "title": "True or False: At the Museum",
+      "audio": "audio/At the museum, visitors can touch the paintings.mp3",
+      "script_en": "At the museum, visitors can touch the paintings.",
+      "script_ar": "في المتحف، يمكن للزوار لمس اللوحات.",
+      "question": "Visitors can touch the paintings in the museum. True or false?",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+     {
+      "type": "vocabDef",
+      "title": "Vocabulary with Definition: consumer",
+      "audio": "audio/These websites are very popular because people are interested in consumers’ opinions.mp3",
+      "script_en": "These websites are very popular because people are interested in consumers’ opinions.",
+      "script_ar": "هذه المواقع شائعة جدًا لأن الناس يهتمون بآراء المستهلكين.",
+      "vocab_item": "consumer",
+      "definition": "A consumer is a person who buys goods or services for personal use.",
+      "question": "Why are the websites very popular?",
+      "answer": "Because people are interested in consumers' opinions."
+    },
+    {
+      "type": "quiz3",
+      "title": "Multiple Choice Quiz (3 options): Hobbies & Interests",
+      "audio": "audio/I also like to bake cookies.mp3",
+      "script_en": "I also like to bake cookies.",
+      "script_ar": "أنا أيضاً يعجبني أن أخبز البسكويت.",
+      "question": "What is he interested in?",
+      "options": ["Cooking", "Reading", "Traveling"],
+      "answer": "Cooking"
+    }
+    
+  ]
+}
